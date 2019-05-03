@@ -1,0 +1,10 @@
+Data/hora do relatório:              2018-11-08 01:23:53.597281
+---------------------------------------------------------------------------
+Cache config (nsets:bsize:assoc):    [2, 4, 4]
+Nome do benchmark:                   arqBinario1.dat
+Total de acessos:                    200
+Total de hits:                       45 / 23.0% (taxa)
+Total de misses:                     155 / 78.0% (taxa)
+Total de misses compulsórios:        8
+Total de misses de capacidade:       126
+Total de misses de conflito:         21
